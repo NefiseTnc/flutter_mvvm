@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440677948119",
+    "project_id": "books-app-mvvm",
+    "storage_bucket": "books-app-mvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440677948119:android:a3eb68e8236e1499e1ae92",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440677948119-to818muup9c9pklr7o0frotg2mjiuhib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcW2smlc5CLQHnTH98RzEi-Gqm83Zvmjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440677948119-to818muup9c9pklr7o0frotg2mjiuhib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
